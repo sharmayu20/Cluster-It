@@ -1,7 +1,2 @@
-# Coursera_Capstone
-
-This repository is used for the Coursera Capstone project.
-
-Report- Capstone Project  \
-PPT- Urban Happiness.pptx  \
-Notebook- UrbanHappiness.ipynb
+The Segmentation and Clustering Neighborhoods is a data science project that clusters various neighbourhoods of Toronto \
+based on the venue near them and presents it to the user in the form of a folium map.
